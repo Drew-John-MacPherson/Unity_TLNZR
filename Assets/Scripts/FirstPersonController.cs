@@ -93,6 +93,14 @@ namespace StarterAssets
 			{
 				_mainCamera = GameObject.FindGameObjectWithTag("MainCamera");
 			}
+
+			// weapons firing
+
+			// collect item
+
+			// timer
+
+			//end game
 		}
 
 		private void Start()

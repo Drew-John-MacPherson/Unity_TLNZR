@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MolotovCocktails : MonoBehaviour
+public class MolotovCocktailsWeapon : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
